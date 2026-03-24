@@ -69,7 +69,7 @@ export default function App() {
       <ScrollView
         horizontal
         pagingEnabled
-        showsVerticalScrollIndicator={false}
+        showsHorizontalScrollIndicator={false}
         contentContainerStyle={styles.weather}
       >
         {days.length === 0 ? (
