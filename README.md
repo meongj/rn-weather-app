@@ -2,6 +2,7 @@
 
 현재 위치 기반 날씨 예보 앱 (React Native / Expo)
 
+
 ## 기능
 
 - GPS 기반 자동 위치 감지 및 도시명 표시
@@ -63,3 +64,9 @@ NomadWeather/
 ├── .prettierrc     # 코드 포맷 설정
 └── assets/         # 아이콘, 스플래시 이미지
 ```
+
+## 앱 화면
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/3a2040aa-2d04-4c4d-ace3-3457ea4bb3de" width="300" />
+</div>
+
